@@ -1,0 +1,884 @@
+---- main Matches (938 in 367 files) ----
+Abs.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Abs.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Abs.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Acks.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Adc_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Adc_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Adc_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Adc_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Addr2line.html (hardware\tools\avr\doc\binutils\binutils.html):function will also be printed.  For example, if <code>main</code> inlines
+Addr2line.html (hardware\tools\avr\doc\binutils\binutils.html):<code>callee2</code>, the source information for <code>callee1</code> and <code>main</code>
+Alias-analysis.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):Alias analysis proceeds in 4 main phases:
+AnalogRead.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+AnalogRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+AnalogRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+AnalogReference.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+AnalogReference.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+AnalogReference.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+AnalogWrite.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+AnalogWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+AnalogWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Annotated.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Arduino-usbdfu.c (hardware\arduino\firmwares\atmegaxxu2\arduino-usbdfu):int main(void)
+Arduino-usbserial.c (hardware\arduino\firmwares\atmegaxxu2\arduino-usbserial):int main(void)
+Argument-Prescan.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):appear during the main scan as an indirect self-reference and would not
+Arithmetic.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Arithmetic.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Arithmetic.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Array.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Array.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Array.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Array.html (reference):<p>For a complete program that demonstrates the use of arrays, see the <a class='urllink' href='http://www.arduino.cc/en/Tutorial/KnightRider' rel='nofollow'>Knight Rider example</a> from the <a class='urllink' href='http://www.arduino.cc/en/Main/LearnArduino' rel='nofollow'>Tutorials</a>.
+Asmdemo.c (hardware\tools\avr\doc\avr-libc\examples\asmdemo):main(void)
+Asmdemo.c (hardware\tools\avr\share\doc\avr-libc-1.8.0\examples\asmdemo):main(void)
+Assembler.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Assembler.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):        .global main                            ; Note [5]
+Assembler.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):main:
+Assembler.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):External functions need to be declared to be <code></code>.global. <code>main</code> is the application entry point that will be jumped to from the ininitalization routine in <code>crts1200.o</code>.<p>
+Assembler.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):The main loop is just a single jump back to itself. Square wave generation itself is completely handled by the timer 0 overflow interrupt service. A <code>sleep</code> instruction (using idle mode) could be used as well, but probably would not conserve much energy anyway since the interrupt service is executed quite frequently.<p>
+Assert_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Assignment.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Assignment.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Assignment.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ATmegaBOOT.c (hardware\arduino\bootloaders\atmega8):int main(void)
+ATmegaBOOT.c (hardware\arduino\bootloaders\lilypad\src):int main(void)
+ATmegaBOOT_168.c (hardware\arduino\bootloaders\atmega):int main(void)
+ATmegaBOOT_168.c (hardware\arduino\bootloaders\bt):int main(void)
+atoi_8S.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+atol_8S.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Atomic_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+AttachInterrupt.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+AttachInterrupt.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+AttachInterrupt.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Avrclass_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Avrclass_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Avrclass_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Avrclass_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Avrcore_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Avrcore_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Avrcore_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Avrcore_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Avrerror_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Avrerror_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Avrerror_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Avrerror_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Avrmalloc_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Avrmalloc_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Avrmalloc_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Avrmalloc_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Benchmarks.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Benchmarks.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):The table contains the number of MCU clocks to calculate a function with a given argument(s). The main reason of a big difference between Avr2 and Avr4 is a hardware multiplication.<p>
+Bit.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Bit.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Bit.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BitClear.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BitClear.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BitClear.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BitRead.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BitRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BitRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BitSet.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BitSet.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BitSet.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Bitshift.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Bitshift.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Bitshift.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BitwiseAnd.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BitwiseAnd.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BitwiseAnd.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BitwiseCompoundAnd.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BitwiseCompoundAnd.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BitwiseCompoundAnd.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BitwiseCompoundOr.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BitwiseCompoundOr.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BitwiseCompoundOr.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BitwiseXorNot.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BitwiseXorNot.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BitwiseXorNot.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BitWrite.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BitWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BitWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Boolean.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Boolean.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Boolean.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+BooleanVariables.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+BooleanVariables.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+BooleanVariables.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Boot_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Braces.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Braces.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Braces.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Braces.html (reference):<p class='vspace'></p><h4><strong>The main uses of curly braces</strong></h4>
+Break.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Break.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Break.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Break_watch_pts.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Break_watch_pts.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Byte.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Byte.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Byte.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ByteCast.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ByteCast.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ByteCast.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+C-Dialect-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):entire standard library is available, and in which <code>main</code> has a return
+C-Dialect-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):not necessarily be at <code>main</code>.  The most obvious example is an OS kernel. 
+Call-Graph.html (hardware\tools\avr\doc\binutils\gprof.html):                     0.00    0.05       1/1           main [2]
+Call-Graph.html (hardware\tools\avr\doc\binutils\gprof.html):     [2]    100.0    0.00    0.05       1         main [2]
+Call-Graph.html (hardware\tools\avr\doc\binutils\gprof.html):                     0.00    0.05       1/1           main [2]
+Callback_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Callback_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Callers.html (hardware\tools\avr\doc\binutils\gprof.html):                     0.00    0.05       1/1           main [2]
+Callers.html (hardware\tools\avr\doc\binutils\gprof.html):called from <code>main</code>:
+Callers.html (hardware\tools\avr\doc\binutils\gprof.html):called from <code>main</code>.
+Callers.html (hardware\tools\avr\doc\binutils\gprof.html):when <code>report</code> was called from <code>main</code>.
+Callers.html (hardware\tools\avr\doc\binutils\gprof.html):of the amount of time spent within calls to <code>report</code> from <code>main</code>.
+Callers.html (hardware\tools\avr\doc\binutils\gprof.html):     <br><dt><code>called</code><dd>Two numbers: the number of times <code>report</code> was called from <code>main</code>,
+Caterina.c (hardware\arduino\bootloaders\caterina):int main(void)
+Caterina.c (hardware\arduino\bootloaders\caterina-lilypadusb):int main(void)
+Changes.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Changes.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Changes.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Changes.html (reference):<p>This page lists major changes to the Arduino core, libraries, and environment.  For details, see the <a class='wikilink' href='http://arduino.cc/en/Main/ReleaseNotes'>release notes</a>.
+Changes.html (reference):<ul><li><strong>Environment</strong>: The code base for the Arduino development environment was largely re-written to bring it back into sync with Processing (1.0.3).  The main differences include support for multiple sketch windows open simultaneously and a dedicated window for the serial monitor.
+Char.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Char.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Char.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+CharCast.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+CharCast.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+CharCast.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Classes.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+ClientAvailable.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientAvailable.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientAvailable.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientConnect.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientConnect.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientConnect.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientConnected.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientConnected.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientConnected.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientConstructor.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientConstructor.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientConstructor.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientFlush.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientFlush.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientFlush.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientPrint.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientPrint.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientPrint.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientPrintln.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientPrintln.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientPrintln.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientRead.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientStop.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientStop.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientStop.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+ClientWrite.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+ClientWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+ClientWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Collect2.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):of the body of <code>main</code> (provided <code>main</code> was compiled with GNU
+Comments.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Comments.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Comments.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Common-Predefined-Macros.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):     <br><dt><code>__BASE_FILE__</code><dd>This macro expands to the name of the main input file, in the form
+Comparison.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Comparison.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Comparison.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+compat-Testing.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):separate source file: a main program and two pieces that interact
+compat-Testing.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):<dt><var>testname</var><span class="file">_main.</span><var>suffix</var><dd>Contains the main program, which calls a function in file
+compat-Testing.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint): <p>Within each test, the main program and one functional piece are
+Compiling.html (hardware\tools\avr\doc\binutils\gprof.html):      35.29      0.14     0.06                             main
+Conditional-Execution.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):assembly text for the predicate is a simple prefix to the main insn. 
+Configure.html (hardware\tools\avr\doc\binutils):The GNU configure and build system has two main goals.
+Configure.html (hardware\tools\avr\doc\binutils):     main (argc, argv)
+Configure.html (hardware\tools\avr\doc\binutils):     main (argc, argv)
+Configure.html (hardware\tools\avr\doc\binutils):   <p>Most autoconf macros will work correctly for a Canadian Cross.  The main
+Configure.html (hardware\tools\avr\doc\binutils):The main Canadian Cross issue in a <span class="file">Makefile</span> arises when you want
+Configure.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccinstall):See &ldquo;RS/6000 and PowerPC Options&rdquo; in the main manual
+Configure.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccinstall):See &ldquo;i386 and x86-64 Options&rdquo; in the main manual
+Configure.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccinstall):If you don't specify it, <span class="option">-Werror</span> is turned on for the main
+Const.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Const.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Const.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Constants.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Constants.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Constants.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Constrain.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Constrain.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Constrain.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Continue.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Continue.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Continue.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Cos.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Cos.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Cos.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Crc16_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Ctype_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Cycles.html (hardware\tools\avr\doc\binutils\gprof.html):<code>a</code> from <code>main</code>; both <code>a</code> and <code>b</code> called <code>c</code>.
+Cycles.html (hardware\tools\avr\doc\binutils\gprof.html):                      1.77        0    1/1        main [2]
+Cycles.html (hardware\tools\avr\doc\binutils\gprof.html):                      1.77        0    1/1        main [2]
+Cycles.html (hardware\tools\avr\doc\binutils\gprof.html):<code>main</code>, which calls <code>a</code>, and an entry for <code>c</code>, with callers
+Cycles.html (hardware\tools\avr\doc\binutils\gprof.html):                      0.16     1.77    1/1        main [2]
+Cycles.html (hardware\tools\avr\doc\binutils\gprof.html):     [2]    100.00    0.16     1.77    1      main [2]
+Cycles.html (hardware\tools\avr\doc\binutils\gprof.html):                      1.77        0    1/1        main [2]
+Cycles.html (hardware\tools\avr\doc\binutils\gprof.html):                      1.77        0    1/1        main [2]
+C_002b_002b-Dialect-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):flag and your program mysteriously crashes after <code>main()</code> has
+C_002b_002b-Dialect-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):          main ()
+C_002b_002b-Interface.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):the main input source file itself uses <span class="samp">#pragma implementation</span>). 
+C_002b_002b-Interface.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):     <br><dt><code>#pragma implementation</code><dt><code>#pragma implementation "</code><var>objects</var><code>.h"</code><dd><a name="index-_0023pragma-implementation-2844"></a>Use this pragma in a <em>main input file</em>, when you want full output from
+C_002b_002b-Interface.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc): <p><a name="index-fno_002dimplement_002dinlines-2851"></a>Conversely, when you include the same header file in a main source file
+C_002b_002b98-Thread_002dLocal-Edits.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):     <li><b>[basic.start.main]</b>
+C_002b_002b98-Thread_002dLocal-Edits.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):The thread that begins execution at the <code>main</code> function is called
+C_002b_002b98-Thread_002dLocal-Edits.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):the <dfn>main thread</dfn>.  It is implementation defined how functions
+C_002b_002b98-Thread_002dLocal-Edits.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):beginning threads other than the main thread are designated or typed. 
+C_002b_002b98-Thread_002dLocal-Edits.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):A function so designated, as well as the <code>main</code> function, is called
+D10V_002dWord.html (hardware\tools\avr\doc\binutils\as.html):you want to load a register with the location of the function <code>main</code> then
+D10V_002dWord.html (hardware\tools\avr\doc\binutils\as.html):<pre class="smallexample">     ldi     r2, main@word
+Darwin-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):directory.  The main difference between this <span class="option">-iframework</span> and
+Debugging-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):must match the base of the name of the main compilation file. 
+DEC-Alpha-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):          <br><dt><span class="samp">L1</span><dt><span class="samp">L2</span><dt><span class="samp">L3</span><dt><span class="samp">main</span><dd>The compiler contains estimates of the number of clock cycles for
+DEC-Alpha-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):(also called Dcache, Scache, and Bcache), as well as to main memory. 
+DEC-Alpha_002fVMS-Options.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):<dt><code>-mvms-return-codes</code><dd><a name="index-mvms_002dreturn_002dcodes-1121"></a>Return VMS condition codes from main.  The default is to return POSIX
+Decoder_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Decoder_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Decoder_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):<a name="l03424"></a>03424 <span class="comment">     * so that the main loop can issue a warning.</span>
+Decoder_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Decoder_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Define.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Define.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Define.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Delay.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Delay.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Delay.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+DelayMicroseconds.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+DelayMicroseconds.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+DelayMicroseconds.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Delay_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Delay__basic_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Demo.c (hardware\tools\avr\doc\avr-libc\examples\demo):main (void)
+Demo.c (hardware\tools\avr\share\doc\avr-libc-1.8.0\examples\demo):main (void)
+Deprecated.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Deprecated.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Deprecated.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+DetachInterrupt.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+DetachInterrupt.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+DetachInterrupt.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Device_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Device_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Device_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Device_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Devsupp_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Devsupp_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Devsupp_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Devsupp_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+DigitalRead.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+DigitalRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+DigitalRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+DigitalWrite.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+DigitalWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+DigitalWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Display_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Display_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Display_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Display_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Documentation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):<p>The main GCC documentation is in the form of manuals in Texinfo
+Double.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Double.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Double.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+DoWhile.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+DoWhile.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+DoWhile.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EEPROM.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EEPROM.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EEPROM.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EEPROMRead.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EEPROMRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EEPROMRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EEPROMWrite.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EEPROMWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EEPROMWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Eeprom_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Eeprom_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Else.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Else.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Else.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Environment-Variables.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):main input file is omitted. 
+Environment-Variables.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):main input file is omitted. 
+Environment.html (reference):      <meta http-equiv='Refresh' Content='0; URL=Guide_Environment?from=Main.Environment.html' />
+Errno_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+ESA_002f390-Directives.html (hardware\tools\avr\doc\binutils\as.html):assembler directives that are documented in the main part of this
+Ethernet.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Ethernet.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Ethernet.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetBegin.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetBegin.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetBegin.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetClient.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetClient.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetClient.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetIPAddress.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetIPAddress.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetIPAddress.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetLocalIP.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetLocalIP.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetLocalIP.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetMaintain.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetMaintain.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetMaintain.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetServer.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetServer.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetServer.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPAvailable.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPAvailable.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPAvailable.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPBegin.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPBegin.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPBegin.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPBeginPacket.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPBeginPacket.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPBeginPacket.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPEndPacket.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPEndPacket.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPEndPacket.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPParsePacket.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPParsePacket.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPParsePacket.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPRead.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPRemoteIP.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPRemoteIP.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPRemoteIP.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPRemotePort.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPRemotePort.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPRemotePort.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+EthernetUDPWrite.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+EthernetUDPWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+EthernetUDPWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Executing-code-before-main.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):<title>Executing code before main - Using the GNU Compiler Collection (GCC)</title>
+Executing-code-before-main.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):<a name="Executing-code-before-main"></a>Next:&nbsp;<a rel="next" accesskey="n" href="Type-encoding.html#Type-encoding">Type encoding</a>,
+Executing-code-before-main.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):<h3 class="section">7.1 <code>+load</code>: Executing code before main</h3>
+Executing-code-before-main.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):code before the execution of the program enters the <code>main</code>
+Executing-code-before-main.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):just before entering <code>main</code>.
+Executing.html (hardware\tools\avr\doc\binutils\gprof.html):normally: by returning from <code>main</code> or by calling <code>exit</code>.  Calling
+Ext_devs.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Ext_devs.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):When accessing one of the registers that use TEMP from the main application, and possibly any other one from within an interrupt routine, care must be taken that no access from within an interrupt context could clobber the TEMP register data of an in-progress transaction that has just started elsewhere.<p>
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):Within the main program, access to those registers could be encapsulated in calls to the <a class="el" href="group__avr__interrupts.html#g68c330e94fe121eba993e5a5973c3162">cli()</a> and <a class="el" href="group__avr__interrupts.html#gad5ebd34cb344c26ac87594f79b06b73">sei()</a> macros. If the status of the global interrupt flag before accessing one of those registers is uncertain, something like the following example code can be used.<p>
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):<span class="keywordtype">int</span> main (<span class="keywordtype">void</span>)
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):<span class="keywordtype">int</span> main (<span class="keywordtype">void</span>)
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):<span class="keywordtype">int</span> main (<span class="keywordtype">void</span>)
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):Then in main we see this:<p>
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):Finally, if the application simply wants to use the additional RAM for private data storage kept outside the domain of the C compiler (e. g. through a <code>char *</code> variable initialized directly to a particular address), it would be sufficient to defer the initialization of the external RAM interface to the beginning of <code><b>main</b><b>()</b></code>, so no tweaking of the <code></code>.init3 section is necessary. The same applies if only the heap is going to be located there, since the application start-up code does not affect the heap.<p>
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):main(<span class="keywordtype">void</span>)
+FAQ.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):<b>CAUTION!</b> Older AVRs will have the watchdog timer disabled on a reset. For these older AVRs, doing a soft reset by enabling the watchdog is easy, as the watchdog will then be disabled after the reset. On newer AVRs, once the watchdog is enabled, then it <b>stays enabled, even after a reset</b>! For these newer AVRs a function needs to be added to the .init3 section (i.e. during the startup code, before main()) to disable the watchdog early enough so it does not continually reset the AVR.<p>
+FAQ.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FAQ.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FAQ.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FAQ.html (reference):<p class='vspace'></p></div><div  class="answer">You can buy an Arduino board from the <a class='urllink' href='http://store.arduino.cc/ww/' rel='nofollow'>official store</a> online or from one of the distributors listed on the <a class='wikilink' href='http://arduino.cc/en/Main/Buy'>buy</a> page.  If you'd prefer to build your own, see the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardSerialSingleSided3'>Arduino Single-Sided Serial board</a>, which can be easily etched and assembled.
+FAQ.html (reference):<p class='vspace'></p></div><div  class="answer">The official Arduino boards are the ones listed on the <a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>hardware page</a>. These are boards whose manufacturers work with the Arduino team to ensure a good user experience, compatibility with the Arduino software, and a quality product. In return for their status as official boards, the manufacturers pay a licensing fee to the Arduino team to support the further development of the project.
+FAQ.html (reference):<p class='vspace'></p></div><div  class="answer">The reference designs for the Arduino boards are available from the <a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>hardware</a> page.  They're licensed under a Creative Commons Attribution Share-Alike license, so you are free to use and adapt them for your own needs without asking permission or paying a fee.  If you're looking to make something of interest to the community, we'd encourage you to discuss your ideas on the <a class='urllink' href='http://www.arduino.cc/cgi-bin/yabb2/YaBB.pl?board=hwdev' rel='nofollow'>hardware development forum</a> so that potential users can offer suggestions.
+FAQ.html (reference):<p class='vspace'></p></div><div  class="answer">If you're making your own board, come up with your own name! This will allow people identify you with your products and help you to build a brand. Be creative: try to suggest what people might use the board for, or emphasize the form factor, or just pick a random word that sounds cool. "Arduino" is a trademark of Arduino team and should not be used for unofficial variants. If you're interested in having your design included in the official Arduino product line, please see the <a class='wikilink' href='http://arduino.cc/en/Main/Policy'>So you want to make an Arduino</a> document and contact the Arduino team.
+FAQ.html (reference):</div><div  class="answer">Yes, check out our <a class='urllink' href='http://arduino.cc/en/Main/PrivacyPolicy' rel='nofollow'>Privacy Policy</a> page. There you will see how we handle visitor's information and our non-disclosure policies.
+Fdevopen_8c.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+ffsll_8S.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+ffsl_8S.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+ffs_8S.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+File-layout.html (hardware\tools\avr\doc\binutils\bfd.html):<pre class="example">      :Main TRAP 1,2,3
+File-layout.html (hardware\tools\avr\doc\binutils\bfd.html):      0x980b0000 - lop_stab for ":Main" = 0, serial 1.
+File-Names-and-DBX.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):<var>stream</var>, which indicates that file <var>name</var> is the main source
+File-Names-and-DBX.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):compilation of the main source file <var>name</var>.  Output should be
+FileAvailable.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileAvailable.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileAvailable.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FileClose.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileClose.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileClose.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FileFlush.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileFlush.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileFlush.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FileIsDirectory.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileIsDirectory.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileIsDirectory.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FileOpenNextFile.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileOpenNextFile.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileOpenNextFile.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FilePeek.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FilePeek.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FilePeek.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FilePosition.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FilePosition.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FilePosition.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FilePrint.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FilePrint.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FilePrint.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FilePrintln.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FilePrintln.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FilePrintln.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FileRead.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileRead.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FileRewindDirectory.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileRewindDirectory.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileRewindDirectory.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Files.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Files.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cppinternals):opening, reading and caching, for both the main source file and all the
+Files.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Files.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Files.html (hardware\tools\avr\doc\simulavr\internals_html):  <tr><td class="indexkey"><b>main.c</b> <a href="main_8c-source.html">[code]</a></td><td class="indexvalue"></td></tr>
+FileSeek.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileSeek.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileSeek.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FileSize.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileSize.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileSize.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FileWrite.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FileWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FileWrite.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Flash_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Flash_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Flash_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Flash_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Flash_fw.c (hardware\arduino\firmwares\wifishield\wifi_dnld\src):int main(void)
+Flat-Profile.html (hardware\tools\avr\doc\binutils\gprof.html):       0.00      0.06     0.00        1     0.00    50.00  main
+Float.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Float.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Float.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+FloatCast.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+FloatCast.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+FloatCast.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+For.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+For.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+For.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Fpconstants.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Fpconstants.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Fpconstants.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Front-End-Config.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):addition the main directory contains <span class="file">c-config-lang.in</span>, which
+Function-Attributes.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):automatically before execution enters <code>main ()</code>.  Similarly, the
+Function-Attributes.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):automatically after <code>main ()</code> has completed or <code>exit ()</code> has
+Function-Basics.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):before <code>main</code> is called.  When the program exits, all functions for
+Function-Bodies.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):<code>CTOR_END_P</code> holds of the main body of a constructor.  See also
+Function-Names.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):     main (void)
+Functions.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Functions_vars.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Fuse_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Gdbserver_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Gdbserver_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Gdbserver_8c.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Gdbserver_8c.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Gdb_1.html (hardware\tools\avr\doc\gdb\onlinedocs):GDB can do four main kinds of things (plus other things in support of
+Gdb_10.html (hardware\tools\avr\doc\gdb\onlinedocs):main ()
+Gdb_10.html (hardware\tools\avr\doc\gdb\onlinedocs):<TABLE><tr><td>&nbsp;</td><td class=smallexample><FONT SIZE=-1><pre>(gdb) list main
+Gdb_10.html (hardware\tools\avr\doc\gdb\onlinedocs):7       main ()
+Gdb_10.html (hardware\tools\avr\doc\gdb\onlinedocs):<TABLE><tr><td>&nbsp;</td><td class=smallexample><FONT SIZE=-1><pre>(gdb) break main
+Gdb_10.html (hardware\tools\avr\doc\gdb\onlinedocs):Breakpoint 1, main () at sample.c:10
+Gdb_12.html (hardware\tools\avr\doc\gdb\onlinedocs):<EM>overlays</EM>.  Separate the overlays from the main program, and place
+Gdb_12.html (hardware\tools\avr\doc\gdb\onlinedocs):their machine code in the larger memory.  Place your main program in
+Gdb_12.html (hardware\tools\avr\doc\gdb\onlinedocs):| program   |       |   main    |   .----| overlay 1 | load address
+Gdb_12.html (hardware\tools\avr\doc\gdb\onlinedocs):program variables and heap would share an address space with the main
+Gdb_12.html (hardware\tools\avr\doc\gdb\onlinedocs):<TABLE><tr><td>&nbsp;</td><td class=smallexample><FONT SIZE=-1><pre>(gdb) print main
+Gdb_12.html (hardware\tools\avr\doc\gdb\onlinedocs):$3 = {int ()} 0x11a0 &#60;main&#62;
+Gdb_12.html (hardware\tools\avr\doc\gdb\onlinedocs):<DD>The main program file.
+Gdb_13.html (hardware\tools\avr\doc\gdb\onlinedocs):written in one source language can be used by a main program written in
+Gdb_13.html (hardware\tools\avr\doc\gdb\onlinedocs):The debugger will start in Ada mode if it detects an Ada main program. 
+Gdb_13.html (hardware\tools\avr\doc\gdb\onlinedocs):<A NAME="Stopping Before Main Program"></A>
+Gdb_13.html (hardware\tools\avr\doc\gdb\onlinedocs):before reaching the main procedure.
+Gdb_16.html (hardware\tools\avr\doc\gdb\onlinedocs):Build ID gets embedded into the main executable using <CODE>ld --build-id</CODE> or
+Gdb_19.html (hardware\tools\avr\doc\gdb\onlinedocs):main () at ../prog.c:3
+Gdb_19.html (hardware\tools\avr\doc\gdb\onlinedocs):<TABLE><tr><td>&nbsp;</td><td class=smallexample><FONT SIZE=-1><pre>(gdbslet) b main
+Gdb_19.html (hardware\tools\avr\doc\gdb\onlinedocs):Breakpoint 1, main (argc=1, argv=0xeffff21c) at prog.c:3
+Gdb_2.html (hardware\tools\avr\doc\gdb\onlinedocs):#5  0x2930 in main (argc=0, argv=0xf7fffb20) at m4.c:195
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):<TABLE><tr><td>&nbsp;</td><td class=smallexample><FONT SIZE=-1><pre>-&#62; -break-insert main
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):    enabled="y",addr="0x08048564",func="main",file="myprog.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):   frame={addr="0x08048564",func="main",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):-break-insert main
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):addr="0x000100d0",func="main",file="hello.c",fullname="/home/foo/hello.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):addr="0x000100d0",func="main",file="hello.c",fullname="/home/foo/hello.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):addr="0x000100d0",func="main",file="hello.c",fullname="/home/foo/hello.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):addr="0x000100d0",func="main",file="hello.c",fullname="/home/foo/hello.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):-break-insert main
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):addr="0x0001072c", func="main",file="recursive2.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):addr="0x000100d0",func="main",file="hello.c",line="5",times="0"},
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):Setting a watchpoint on a variable in the <CODE>main</CODE> function:
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):frame={func="main",args=[],file="recursive2.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):No threads present, besides the main process:
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):*stopped,reason="function-finished",frame={func="main",args=[],
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):-break-insert main
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):frame={func="main",args=[],file="recursive2.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):*stopped,reason="location-reached",frame={func="main",args=[],
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):frame={level="4",addr="0x000107e0",func="main",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):frame={level="11",addr="0x00010738",func="main",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c0",func-name="main",offset="4",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c4",func-name="main",offset="8",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c8",func-name="main",offset="12",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107cc",func-name="main",offset="16",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107d0",func-name="main",offset="20",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):Disassemble the whole <CODE>main</CODE> function.  Line 32 is part of
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):<CODE>main</CODE>.
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107bc",func-name="main",offset="0",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c0",func-name="main",offset="4",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c4",func-name="main",offset="8",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x0001081c",func-name="main",offset="96",inst="ret "},
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x00010820",func-name="main",offset="100",inst="restore "}]
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):Disassemble 3 instructions from the start of <CODE>main</CODE>:
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107bc",func-name="main",offset="0",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c0",func-name="main",offset="4",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c4",func-name="main",offset="8",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):Disassemble 3 instructions from the start of <CODE>main</CODE> in mixed mode:
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107bc",func-name="main",offset="0",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c0",func-name="main",offset="4",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):{address="0x000107c4",func-name="main",offset="8",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):*stopped,reason="breakpoint-hit",bkptno="1",frame={func="main",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):-interpreter-exec console "break main"
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):~"Breakpoint 1 at 0x8074fc6: file ../../src/gdb/main.c, line 743.\n"
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):-break-insert main
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):addr="0x080484ed",func="main",file="myprog.c",
+Gdb_25.html (hardware\tools\avr\doc\gdb\onlinedocs):frame={addr="0x080484ed",func="main",args=[{name="argc",value="1"},
+Gdb_26.html (hardware\tools\avr\doc\gdb\onlinedocs):<DD>When GDB is prompting for a command (the main GDB prompt).
+Gdb_30.html (hardware\tools\avr\doc\gdb\onlinedocs):subdirectory of the main source directory<A NAME="DOCF8" HREF="gdb_fot.html#FOOT8">(8)</A>.  If you can use PostScript or Ghostscript with your printer,
+Gdb_30.html (hardware\tools\avr\doc\gdb\onlinedocs):version of this manual in the <TT>`gdb'</TT> subdirectory.  The main Info
+Gdb_30.html (hardware\tools\avr\doc\gdb\onlinedocs):subdirectory of the main source directory (for example, to
+Gdb_33.html (hardware\tools\avr\doc\gdb\onlinedocs):annex specifies which XML document to access.  The main description is
+Gdb_39.html (hardware\tools\avr\doc\gdb\onlinedocs):<TR><TD></TD><TD valign=top><A HREF="gdb_7.html#IDX306">backtrace beyond <CODE>main</CODE> function</A></TD><TD valign=top><A HREF="gdb_7.html#SEC48">6.2 Backtraces</A></TD></TR>
+Gdb_46.html (hardware\tools\avr\doc\gdb\onlinedocs):<TR><TD></TD><TD valign=top><A HREF="gdb_18.html#IDX851">remote serial stub, main routine</A></TD><TD valign=top><A HREF="gdb_18.html#SEC174">17.5.1 What the Stub Can Do for You</A></TD></TR>
+Gdb_46.html (hardware\tools\avr\doc\gdb\onlinedocs):<TR><TD></TD><TD valign=top><A HREF="gdb_5.html#IDX95">run to main procedure</A></TD><TD valign=top><A HREF="gdb_5.html#SEC20">4.2 Starting your Program</A></TD></TR>
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):The name of the main procedure can vary from language to language.
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):With C or C<TT>++</TT>, the main procedure name is always <CODE>main</CODE>, but
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):main procedure.  The debugger provides a convenient way to start the
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):execution of the program and to stop at the beginning of the main
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):breakpoint at the beginning of the main procedure and then invoking
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):executed before the main procedure is called.  This depends on the
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):<CODE>main</CODE> is called.  It is therefore possible that the debugger stops
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):before reaching the main procedure.  However, the temporary breakpoint
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):* 1 process 35 thread 13  main (argc=1, argv=0x7ffffff8)
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):<CODE>main</CODE> in your original program, the breakpoint will also be set on
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):the child process's <CODE>main</CODE>.
+Gdb_5.html (hardware\tools\avr\doc\gdb\onlinedocs):Therefore if you create a checkpoint at (eg.) the start of main, 
+Gdb_6.html (hardware\tools\avr\doc\gdb\onlinedocs):have this support.  The main purpose of this is EPROM/ROM code
+Gdb_6.html (hardware\tools\avr\doc\gdb\onlinedocs):<CODE>main</CODE> function and when it breaks, set all the watchpoints.
+Gdb_6.html (hardware\tools\avr\doc\gdb\onlinedocs):#0  main (argc=4, argv=0xf7fffae8) at m4.c:206
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):function <CODE>main</CODE>.  This is called the <EM>initial</EM> frame or the
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):<CODE>main</CODE><A NAME="DOCF3" HREF="gdb_fot.html#FOOT3">(3)</A>.
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):<DT><CODE>set backtrace past-main</CODE>
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):<DD><DT><CODE>set backtrace past-main on</CODE>
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):<DT><CODE>set backtrace past-main off</CODE>
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):<DT><CODE>show backtrace past-main</CODE>
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):and is likely before the user entry point <CODE>main</CODE> (or equivalent) is called.
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):<CODE>main</CODE>.
+Gdb_7.html (hardware\tools\avr\doc\gdb\onlinedocs):#1  0x22f0 in main (argc=1, argv=0xf7fffbf4, env=0xf7fffbfc)
+Gdb_8.html (hardware\tools\avr\doc\gdb\onlinedocs):0x32c4 &#60;main+204&#62;:      addil 0,dp
+Gdb_8.html (hardware\tools\avr\doc\gdb\onlinedocs):0x32c8 &#60;main+208&#62;:      ldw 0x22c(sr0,r1),r26
+Gdb_8.html (hardware\tools\avr\doc\gdb\onlinedocs):0x32cc &#60;main+212&#62;:      ldil 0x3000,r31
+Gdb_8.html (hardware\tools\avr\doc\gdb\onlinedocs):0x32d0 &#60;main+216&#62;:      ble 0x3f8(sr4,r31)
+Gdb_8.html (hardware\tools\avr\doc\gdb\onlinedocs):0x32d4 &#60;main+220&#62;:      ldo 0(r31),rp
+Gdb_8.html (hardware\tools\avr\doc\gdb\onlinedocs):0x32d8 &#60;main+224&#62;:      addil -0x800,dp
+Gdb_8.html (hardware\tools\avr\doc\gdb\onlinedocs):0x32dc &#60;main+228&#62;:      ldo 0x588(r1),r26
+Gdb_8.html (hardware\tools\avr\doc\gdb\onlinedocs):0x32e0 &#60;main+232&#62;:      ldil 0x3000,r31
+Gdb_9.html (hardware\tools\avr\doc\gdb\onlinedocs):main ()
+Gdb_fot.html (hardware\tools\avr\doc\gdb\onlinedocs):environment) are not required to have a <CODE>main</CODE> function as the
+Gimplification-pass.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint): <p><a name="index-gimplify_005ffunction_005ftree-1681"></a><a name="index-gimplify_005fexpr-1682"></a><a name="index-lang_005fhooks_002egimplify_005fexpr-1683"></a>The main entry point to this pass is <code>gimplify_function_tree</code>
+Gimplification-pass.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):function gimplifying each statement in turn.  The main workhorse
+Globals.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Globals.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Globals_0x61.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x62.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x63.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x64.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x65.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x66.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x67.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x68.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x69.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x6c.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x6d.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x6e.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x70.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x71.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x72.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x73.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x74.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x75.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x76.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_0x77.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Globals_defs.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Globals_defs_0x61.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x62.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x63.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x64.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x65.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x66.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x67.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x69.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x6d.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x6e.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x70.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x72.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x73.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x74.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x75.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_defs_0x77.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_enum.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Globals_enum.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Globals_eval.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Globals_eval.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Globals_func.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Globals_func.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Globals_func_0x61.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x62.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x63.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x64.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x65.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x66.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x67.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x68.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x69.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x6c.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x6d.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x70.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x71.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x72.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x73.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x74.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x75.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_func_0x76.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_type.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_vars.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Globals_vars.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Globals_vars.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Goto.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Goto.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Goto.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Group__alloca.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__asmdemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__asmdemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):As PWM generation toggles the counting direction of timer 0 between up and down after each 256 timer cycles, the current time cannot be deduced by reading TCNT0 only, but the current counting direction of the timer needs to be considered as well. This requires servicing interrupts whenever the timer hits <em>TOP</em> (255) and <em>BOTTOM</em> (0) to learn about each change of the counting direction. For PWM generation, it is usually desired to run it at the highest possible speed so filtering the PWM frequency from the modulated output signal is made easy. Thus, the PWM timer runs at full CPU speed. This causes the overflow and compare match interrupts to be triggered each 256 CPU clocks, so they must run with the minimal number of processor cycles possible in order to not impose a too high CPU load by these interrupt service routines. This is the main reason to implement the entire interrupt handling in fine-tuned assembly code rather than in C.<p>
+Group__asmdemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):After the usual include files, two variables are defined. The first one, <code>pwm_incoming</code> is used to communicate the most recent pulse width detected by the incoming PWM decoder up to the main loop.<p>
+Group__asmdemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):Function <code>main()</code> first initializes the hardware by calling <code>ioinit()</code>, and then waits until some incoming PWM value is available. If it is, the output PWM will be adjusted by computing the relative value of the incoming PWM. Finally, the pin-change interrupt is re-enabled, and the CPU is put to sleep.<h3><a class="anchor" name="asmdemo_project">
+Group__avr__assert.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__boot.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__eeprom.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__errno.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__fuse.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__fuse.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <span class="keywordtype">int</span> main(<span class="keywordtype">void</span>)
+Group__avr__fuse.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <span class="keywordtype">int</span> main(<span class="keywordtype">void</span>)
+Group__avr__fuse.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <span class="keywordtype">int</span> main(<span class="keywordtype">void</span>)
+Group__avr__interrupts.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__inttypes.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__io.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__lock.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__lock.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <span class="keywordtype">int</span> main(<span class="keywordtype">void</span>)
+Group__avr__lock.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <span class="keywordtype">int</span> main(<span class="keywordtype">void</span>)
+Group__avr__math.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__pgmspace.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__power.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__sfr.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__sfr.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):Note that special care must be taken when accessing some of the 16-bit timer IO registers where access from both the main program and within an interrupt context can happen. See <a class="el" href="FAQ.html#faq_16bitio">Why do some 16-bit timer registers sometimes get trashed?</a>.<p>
+Group__avr__sfr__notes.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__sleep.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__stdint.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__stdio.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__stdio.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    main(<span class="keywordtype">void</span>)
+Group__avr__stdlib.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__string.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__version.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__avr__watchdog.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__compat__ina90.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__ctype.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__demos.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__demo__project.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__demo__project.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):<dl class="user" compact><dt><b>Note [7]:</b></dt><dd>The main loop of the program does nothing -- all the work is done by the interrupt routine! The <code>sleep_mode()</code> puts the processor on sleep until the next interrupt, to conserve power. Of course, that probably won't be noticable as we are still driving a LED, it is merely mentioned here to demonstrate the basic principle.</dd></dl>
+Group__demo__project.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):main (<span class="keywordtype">void</span>)
+Group__demo__project.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):  58:	4d d0       	rcall	.+154    	; 0xf4 &lt;main&gt;
+Group__demo__project.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):000000f4 &lt;main&gt;:
+Group__demo__project.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual): 11a:	f8 cf       	rjmp	.-16     	; 0x10c &lt;main+0x18&gt;
+Group__deprecated__items.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__largedemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__largedemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):The <code>intflags</code> structure demonstrates a way to allocate bit variables in memory. Each of the interrupt service routines just sets one bit within that structure, and the application's main loop then monitors the bits in order to act appropriately.<p>
+Group__largedemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):Like all variables that are used to communicate values between an interrupt service routine and the main application, it is declared <a class="el" href="FAQ.html#faq_volatile">volatile</a>.<p>
+Group__largedemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):The ISR to handle timer 1's overflow interrupt arranges for the software clock. While timer 1 runs the PWM, it calls its overflow handler rather frequently, so the <code>TMR1_SCALE</code> value is used as a postscaler to reduce the internal software clock frequency further. If the software clock triggers, it sets the <code>tmr_int</code> bitfield, and defers all further tasks to the main loop.<p>
+Group__largedemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):Part 5: main()</a></h3>
+Group__largedemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):At the start of <code>main()</code>, a variable <code>mode</code> is declared to keep the current mode of operation. An enumeration is used to improve the readability. By default, the compiler would allocate a variable of type <em>int</em> for an enumeration. The <em>packed</em> attribute declarator instructs the compiler to use the smallest possible integer type (which would be an 8-bit type here).<p>
+Group__largedemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):After some initialization actions, the application's main loop follows. In an embedded application, this is normally an infinite loop as there is nothing an application could "exit" into anyway.<p>
+Group__largedemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):All the string literals that are used as informational messages within <code>main()</code> are placed in <a class="el" href="group__avr__pgmspace.html">program memory</a> so no SRAM needs to be allocated for them. This is done by using the PSTR macro, and passing the string to <code>printstr_p()</code>.<h2><a class="anchor" name="largedemo_src">
+Group__setjmp.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__setjmp.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <span class="keywordtype">int</span> main (<span class="keywordtype">void</span>)
+Group__setjmp.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):           ... main processing loop which calls foo() some where ...
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):<li><code>stdiodemo.c</code> This is the main example file.</li><li><code>defines.h</code> Contains some global defines, like the LCD wiring</li><li><code>hd44780.c</code> Implementation of an HD44780 LCD display driver</li><li><code>hd44780.h</code> Interface declarations for the HD44780 driver</li><li><code>lcd.c</code> Implementation of LCD character IO on top of the HD44780 driver</li><li><code>lcd.h</code> Interface declarations for the LCD driver</li><li><code>uart.c</code> Implementation of a character IO driver for the internal UART</li><li><code>uart.h</code> Interface declarations for the UART driver</li></ul>
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):As usual, include files go first. While conventionally, system header files (those in angular brackets <code>&lt;</code> ... <code>&gt;</code>) go before application-specific header files (in double quotes), <code>defines.h</code> comes as the first header file here. The main reason is that this file defines the value of <code>F_CPU</code> which needs to be known before including <code>&lt;utils/delay.h&gt;</code>.<p>
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):In a practical application, long delays like this one were better be handled by a hardware timer, so the main CPU would be free for other tasks while waiting, or could be put on sleep.<p>
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):At the beginning of <code>main()</code>, after initializing the peripheral devices, the default stdio streams <code>stdin</code>, <code>stdout</code>, and <code>stderr</code> are set up by using the existing static <code>FILE</code> stream objects. While this is not mandatory, the availability of <code>stdin</code> and <code>stdout</code> allows to use the shorthand functions (e.g. <code><a class="el" href="group__avr__stdio.html#g4c04da4953607fa5fa4d3908fecde449">printf()</a></code> instead of <code><a class="el" href="group__avr__stdio.html#g0e41285401c397eb29692205a95fcd9c">fprintf()</a></code>), and <code>stderr</code> can mnemonically be referred to when sending out diagnostic messages.<p>
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):Finally, a main loop follows that accepts simple "commands" entered via the RS-232 connection, and performs a few simple actions based on the commands.<p>
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):If <code><a class="el" href="group__avr__stdio.html#g00d34a8bff0293d2d6f4563d248d8fb2">fgets()</a></code> fails to read anything, the main loop is left. Of course, normally the main loop of a microcontroller application is supposed to never finish, but again, for demonstrational purposes, this explains the error handling of stdio. <code><a class="el" href="group__avr__stdio.html#g00d34a8bff0293d2d6f4563d248d8fb2">fgets()</a></code> will return NULL in case of an input error or end-of-file condition on input. Both these conditions are in the domain of the function that is used to establish the stream, <code>uart_putchar()</code> in this case. In short, this function returns EOF in case of a serial line "break" condition (extended start condition) has been recognized on the serial line. Common PC terminal programs allow to assert this condition as some kind of out-of-band signalling on an RS-232 connection.<p>
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):When leaving the main loop, a goodbye message is sent to standard error output (i.e. to the LCD), followed by three dots in one-second spacing, followed by a sequence that will clear the LCD. Finally, <code>main()</code> will be terminated, and the library will add an infinite loop, so only a CPU reset will be able to restart the application.<p>
+Group__stdiodemo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):<li>The 'q' (quit) command has the same effect of leaving the main loop.</li><li>The 'l' (LCD) command takes its second argument, and sends it to the LCD.</li><li>The 'u' (UART) command takes its second argument, and sends it back to the UART connection.</li></ul>
+Group__twi__demo.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__util__atomic.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__util__atomic.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):A typical example that requires atomic access is a 16 (or more) bit variable that is shared between the main execution path and an ISR. While declaring such a variable as volatile ensures that the compiler will not optimize accesses to it away, it does not guarantee atomic access to it. Assuming the following example:<p>
+Group__util__atomic.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):main(<span class="keywordtype">void</span>)
+Group__util__atomic.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):There is a chance where the main context will exit its wait loop when the variable <code>ctr</code> just reached the value 0xFF. This happens because the compiler cannot natively access a 16-bit variable atomically in an 8-bit CPU. So the variable is for example at 0x100, the compiler then tests the low byte for 0, which succeeds. It then proceeds to test the high byte, but that moment the ISR triggers, and the main context is interrupted. The ISR will decrement the variable from 0x100 to 0xFF, and the main context proceeds. It now tests the high byte of the variable which is (now) also 0, so it concludes the variable has reached 0, and terminates the loop.<p>
+Group__util__atomic.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):main(<span class="keywordtype">void</span>)
+Group__util__crc.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__util__delay.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__util__delay__basic.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__util__parity.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__util__setbaud.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Group__util__twi.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Guard-Macros.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cppinternals):directives outside the main conditional block for the optimization to be
+Guide_ArduinoBT.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoBT.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoBT.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoBT.html (reference):<p>In most respects, the Arduino BT is similar to the Arduino Diecimila.  Here are the main differences of BT board (besides the fact that it communicates over bluetooth instead of USB):
+Guide_ArduinoBT.html (reference):</li></ul><p class='vspace'></p><p>For more details, see the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardBluetooth'>Arduino BT hardware page</a>.
+Guide_ArduinoEthernetShield.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoEthernetShield.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoEthernetShield.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoEthernetShield.html (reference):<p>The <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoEthernetShield'>Arduino Ethernet shield</a> allows an Arduino board to connect to the internet using the <a class='wikilink' href='Ethernet.html'>Ethernet library</a> and to read and write an SD card using the <a class='wikilink' href='SD.html'>SD library</a>.
+Guide_ArduinoLeonardo.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoLeonardo.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoLeonardo.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoLeonardo.html (reference):<p>The Leonardo differs from previous Arduino boards in that it uses a single microcontroller to both run your sketches and for USB communication with the computer.  The Uno and other boards use separate microcontrollers for these two functions, meaning that the USB connection to the computer remains established regardless of the state of the main microcontroller.  By combining these two functions onto a single processor, the Leonardo allows for more flexibility in its communication with the computer.  It also helps to lower the cost of the board by removing the need for an additional processor. 
+Guide_ArduinoLeonardo.html (reference):<p class='vspace'></p><p>This means that every time you reset the board, the Leonardo's USB serial connection will be broken and re-established.  The Leonardo will disappear from the list of serial ports, and the list will re-enumerate. Any program that has an open serial connection to the Leonardo will lose its connection.  This is in contrast to the Arduino Uno, with which you can reset the main processor (the <span class='wikiword'>ATmega328P</span>) without closing the USB connection (which is maintained by the secondary <span class='wikiword'>ATmega8U2</span> or <span class='wikiword'>ATmega16U2</span> processor).  This difference has implications for driver installation, uploading, and communication; these are discussed below.
+Guide_ArduinoLeonardo.html (reference):<p>On the Leonardo, the main <strong>Serial</strong> class refers to the virtual serial driver on the Leonardo for connection to your computer over USB.  It's not connected to the physical pins 0 and 1 as it is on the Uno and earlier boards.  To use the hardware serial port (pins 0 and 1, RX and TX), use <strong>Serial1</strong>.  (See the <a class='wikilink' href='Serial.html'>Serial reference pages</a> for more information.)
+Guide_ArduinoLeonardo.html (reference):<p>The Leonardo has some slight differences in the capabilities and assignments of various pins (especially for SPI and TWI).  These are detailed on the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardLeonardo'>hardware page</a>.
+Guide_ArduinoLeonardo.html (reference):<p class='vspace'></p><p>For more details on the Arduino Leonardo, see the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardLeonardo'>hardware page</a> and the <a class='wikilink' href='MouseKeyboard.html'>Mouse and Keyboard reference pages</a>. 
+Guide_ArduinoLilyPad.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoLilyPad.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoLilyPad.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoMini.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoMini.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoMini.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoNano.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoNano.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoNano.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoNano.html (reference):<p class='vspace'></p><p>For more details on the Arduino Nano, see the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardNano'>hardware page</a>.
+Guide_ArduinoPro.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoPro.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoPro.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoProMini.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoProMini.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoProMini.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoWirelessShield.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoWirelessShield.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoWirelessShield.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoWirelessShield.html (reference):<p class='vspace'></p><p>To upload a sketch to an Arduino board with a Wireless shield, remove the Xbee.  Then, you can upload a sketch normally from the Arduino environment.  In this case, upload the <strong>Communication | Physical Pixel</strong> sketch to one of the boards.  This sketch instructs the board to turn on the LED attached to pin 13 whenever it receives an 'H' over its serial connection, and turn the LED off when it gets an 'L'.  You can test it by connecting to the board with the Arduino serial monitor (be sure it's set at 9600 baud), typing an H, and pressing enter (or clicking send).  The LED should turn on.  Send an L and the LED should turn off.  If nothing happens, you may have an Arduino board that doesn't have a built-in LED on pin 13 (see the <a class='wikilink' href='http://arduino.cc/en/Main/Boards'>board index</a> to check for sure), in this case you'll need to supply your own.
+Guide_ArduinoWirelessShield.html (reference):<p>For more information, see: the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoWirelessShield'>hardware page</a> for the Xbee shield, and the <a class='urllink' href='http://www.digi.com/products/wireless-wired-embedded-solutions/zigbee-rf-modules/point-multipoint-rfmodules/' rel='nofollow'>Digi Xbee page</a>.
+Guide_ArduinoXbeeShield.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_ArduinoXbeeShield.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_ArduinoXbeeShield.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_ArduinoXbeeShield.html (reference):<p class='vspace'></p><p>To upload a sketch to an Arduino board with a Xbee shield, you'll need to put both jumpers on the shield to the "USB" setting (i.e. place them on the two pins closest to the edge of the board) or remove them completely (but be sure not to lose them!).  Then, you can upload a sketch normally from the Arduino environment.  In this case, upload the <strong>Communication | Physical Pixel</strong> sketch to one of the boards.  This sketch instructs the board to turn on the LED attached to pin 13 whenever it receives an 'H' over its serial connection, and turn the LED off when it gets an 'L'.  You can test it by connecting to the board with the Arduino serial monitor (be sure it's set at 9600 baud), typing an H, and pressing enter (or clicking send).  The LED should turn on.  Send an L and the LED should turn off.  If nothing happens, you may have an Arduino board that doesn't have a built-in LED on pin 13 (see the <a class='wikilink' href='http://arduino.cc/en/Main/Boards'>board index</a> to check for sure), in this case you'll need to supply your own.
+Guide_ArduinoXbeeShield.html (reference):<p>For more information, see: the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoXbeeShield'>hardware page</a> for the Xbee shield, the <a class='urllink' href='http://www.squidbee.org/' rel='nofollow'>Libelium SquidBee wiki</a>, and the <a class='urllink' href='http://www.maxstream.net/products/xbee/xbee-oem-rf-module-zigbee.php' rel='nofollow'>MaxStream Xbee page</a>.
+Guide_Environment.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_Environment.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_Environment.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_Environment.html (reference):<p class='vspace'></p><p>You can also talk to the board from Processing, Flash, <span class='wikiword'>MaxMSP</span>, etc (see the <a class='urllink' href='http://www.arduino.cc/playground/Main/Interfacing' rel='nofollow'>interfacing page</a> for details).
+Guide_index.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_index.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_index.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_index.html (reference):</li><li><a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardFioProgramming'>Arduino Fio</a>
+Guide_Introduction.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_Introduction.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_Introduction.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_MacOSX.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_MacOSX.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_MacOSX.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_MacOSX.html (reference):<p>In this tutorial, we assume you're using an <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardUno'>Arduino Uno</a>, <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardDuemilanove'>Arduino Duemilanove</a>, <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardNano'>Nano</a>, or <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardDiecimila'>Diecimila</a>.  If you have another board, read the corresponding page in this getting started guide.
+Guide_MacOSX.html (reference):<p class='vspace'></p><div><img src='http://arduino.cc/en/uploads/Main/ArduinoUnoFront240.jpg' alt='' title='' /> <img src='http://arduino.cc/en/uploads/Guide/USBCable.jpg' alt='' title='' /></div>
+Guide_MacOSX.html (reference):<p>Get the latest version from the <a class='wikilink' href='http://arduino.cc/en/Main/Software'>download page</a>.
+Guide_Troubleshooting.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_Troubleshooting.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_Troubleshooting.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_Troubleshooting.html (reference):<p>There are many pieces involved in getting a program onto your Arduino board, and if any of them aren't right, the upload can fail.  They include: the drivers for the board, the board and serial port selections in the Arduino software, access to the serial port, the physical connection to the board, the firmware on the 8U2 (on the Uno and Mega 2560), the bootloader on the main microcontroller on the board, the microcontroller's fuse settings, and more.  Here are some specific suggestions for troubleshooting each of the pieces.
+Guide_Troubleshooting.html (reference):<p class='vspace'></p><p><code>Uncaught exception in main method: java.<span class='wikiword'>lang.UnsatisfiedLinkError</span>: /Applications/arduino-0016/Arduino 16.app/Contents/Resources/Java/librxtxSerial.jnilib: no suitable image found.  Did find: /Applications/arduino-0016/Arduino 16.app/Contents/Resources/Java/librxtxSerial.jnilib: no matching architecture in universal wrapper</code>
+Guide_Troubleshooting.html (reference):<p class='vspace'></p><p><code>Uncaught exception in main method: java.<span class='wikiword'>lang.UnsatisfiedLinkError</span>: Native Library /Users/anu/Desktop/arduino-0002/librxtxSerial.jnilib already loaded in another classloader</code>
+Guide_Troubleshooting.html (reference):<p class='vspace'></p><h3>What about the error "Could not find the main class."?</h3>
+Guide_Troubleshooting.html (reference):<p class='vspace'></p><p><code>Java Virtual Machine Launcher: Could not find the main class. Program will exit.</code>
+Guide_Troubleshooting.html (reference):<p class='vspace'></p><p><code> 6 [main] ? (3512) C:\Dev\arduino-0006\tools\avr\bin\avr-gcc.exe: *** fatal error - C:\Dev\arduino-0006\tools\avr\bin\avr-gcc.exe: *** system shared memory version mismatch detected - 0x75BE0084/0x75BE009C.</code>
+Guide_Windows.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Guide_Windows.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Guide_Windows.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Guide_Windows.html (reference):<p>In this tutorial, we assume you're using an <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardUno'>Arduino Uno</a>, <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardDuemilanove'>Arduino Duemilanove</a>, <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardNano'>Nano</a>, or <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardDiecimila'>Diecimila</a>.  If you have another board, read the corresponding page in this getting started guide.
+Guide_Windows.html (reference):<p class='vspace'></p><div><img src='http://arduino.cc/en/uploads/Main/ArduinoUnoFront240.jpg' alt='' title='' /> <img src='http://arduino.cc/en/uploads/Guide/USBCable.jpg' alt='' title='' /></div>
+Guide_Windows.html (reference):<p>Get the latest version from the <a class='wikilink' href='http://arduino.cc/en/Main/Software'>download page</a>.
+Guide_Windows.html (reference):<p><strong>Installing drivers for the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardUno'>Arduino Uno</a> with Windows7, Vista, or XP:</strong>
+Guide_Windows.html (reference):<p class='vspace'></p><p><strong>Installing drivers for the <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardDuemilanove'>Arduino Duemilanove</a>, <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardNano'>Nano</a>, or <a class='wikilink' href='http://arduino.cc/en/Main/ArduinoBoardDiecimila'>Diecimila</a> with Windows7, Vista, or XP:</strong>
+Help.html (hardware\tools\avr\mfile):  <li>The entry <b>Main file name</b> opens a popup window that asks
+Help.html (hardware\tools\avr\mfile):      the <b>Main file name</b> setting should be included or not.
+HighByte.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+HighByte.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+HighByte.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+History.txt (hardware\tools\avr\pn):on the main PHP item that contains the styles below it. This will not override any
+Howto.txt (tools):The run() method will be called by the main application when the tool is 
+Howto.txt (tools):more flexible. The tool folder should be the name of the main class (without 
+If.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+If.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+If.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Implementation.html (hardware\tools\avr\doc\binutils\gprof.html):which invokes <code>monstartup</code> before <code>main</code>,
+Implementation.html (hardware\tools\avr\doc\binutils\gprof.html):the first time (typically when <code>main</code> is called),
+Include-Operation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):   <p class="noindent">and a main program called <span class="file">program.c</span> that uses the header file,
+Include-Operation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):     main (void)
+Include-Operation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):     main (void)
+Include.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Include.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Include.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Include.html (reference):<p class='vspace'></p><p>The main reference page for AVR C libraries (AVR is a reference to  the Atmel chips on which the Arduino is based) is <a class='urllink' href='http://www.nongnu.org/avr-libc/user-manual/modules.html' rel='nofollow'>here.</a>
+Increment.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Increment.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Increment.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+IncrementCompound.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+IncrementCompound.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+IncrementCompound.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Index.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Index.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):<li><a href="Executing-code-before-main.html#Executing-code-before-main">7.1 <code>+load</code>: Executing code before main</a>
+Index.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccinstall):not yet been merged into the main part of this manual.
+Index.html (hardware\tools\avr\doc\simulavr\internals_html):  <frame src="main.html" name="basefrm">
+Index.html (hardware\tools\avr\doc\simulavr\internals_html):    <a href="main.html">Frames are disabled. Click here to go to the main page.</a>
+Index.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Index.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Index.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Index.html (reference):<p>Arduino programs can be divided in three main parts: <em>structure</em>, <em>values</em> (variables and constants), and <em>functions</em>. 
+Index.html (reference):</li></ul><p class='vspace'></p><p><strong>Looking for something else?</strong>  See the <a class='wikilink' href='Libraries.html'>libraries page</a> for interfacing with particular types of hardware.  Try the list of <a class='urllink' href='http://www.arduino.cc/playground/Main/GeneralCodeLibrary' rel='nofollow'>community-contributed code</a>.   The Arduino language is based on C/C++.  It links against <a class='urllink' href='http://www.nongnu.org/avr-libc/user-manual/modules.html' rel='nofollow'>AVR Libc</a> and allows the use of any of its functions; see its <a class='urllink' href='http://www.nongnu.org/avr-libc/user-manual/index.html' rel='nofollow'>user manual</a> for details.
+Initialization.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):<code>main</code> is called.
+Initialization.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):<code>main</code> (or more accurately, any function designated as a program
+Initialization.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):the compilation of <code>main</code> to call <code>__main</code> as above, starting
+Inline_asm.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Insn_decoder.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Insn_decoder.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Install_tools.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Install_tools.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):This chapter shows how to build and install, from source code, a complete development environment for the AVR processors using the GNU toolset. There are two main sections, one for Linux, FreeBSD, and other Unix-like operating systems, and another section for Windows.<h2><a class="anchor" name="install_unix">
+Install_tools.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):MinGW/MSYS does provide somewhat of a POSIX environment that allows you to build Unix and Linux applications as they woud normally do, with a <code>configure</code> step and a <code>make</code> step. Cygwin also provides such an environment. This means that building the AVR toolchain is very similar to how it is built in Linux, described above. The main differences are in what the PATH environment variable gets set to, pathname differences, and the tools that are required to build the projects under Windows. We'll take a look at the tools next.<h2><a class="anchor" name="install_windows_tools">
+Int.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Int.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Int.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+IntCast.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+IntCast.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+IntCast.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+IntegerConstants.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+IntegerConstants.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+IntegerConstants.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Interfaces.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gccint):main gimplifier lower them the rest of the way; this is often simpler. 
+Interrupts.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Interrupts.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Interrupts.html (reference):  	<p><a class='wikilink' href='http://arduino.cc/en/Main/Buy'>Buy</a>
+Interrupts.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Software'>Download</a>
+Interrupts.html (reference):<a class='wikilink' href='http://arduino.cc/en/Main/Hardware'>Hardware</a>
+Interrupt_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Inttypes_8h.html (hardware\tools\avr\doc\avr-libc\avr-libc-user-manual):    <td align="center" width="13%"><a href="index.html">Main Page</a></td>
+Intvects_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):    <title>Main Page</title>
+Intvects_8c-source.html (hardware\tools\avr\doc\simulavr\internals_html):      <li><a href="main.html"><span>Main&nbsp;Page</span></a></li>
+Invocation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):     <br><dt><code>-Wunused-macros</code><dd><a name="index-Wunused_002dmacros-135"></a>Warn about macros defined in the main file that are unused.  A macro
+Invocation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):suitable for <span class="command">make</span> describing the dependencies of the main
+Invocation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):other than the main file, causing each to depend on nothing.  These
+Invocation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):default CPP takes the name of the main input file, deletes any
+Invocation.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\cpp):the directory containing the main source file.  If not found there, it
+Invoking-Gcov.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):outputs execution counts only for the main blocks of a line.  With this
+Invoking-Gcov.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):             -:    3:int main (void)
+Invoking-Gcov.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):             -:    3:int main (void)
+Invoking-Gcov.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):             -:    3:int main (void)
+Invoking-Gcov.html (hardware\tools\avr\doc\gcc\html\gcc-4.3.2\gcc):     function main called 1 returned 1 blocks executed 75%

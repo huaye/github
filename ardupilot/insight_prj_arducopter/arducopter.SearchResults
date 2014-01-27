@@ -1,0 +1,10 @@
+---- serial2_baud Matches (15 in 5 files) ----
+ArduCopter.cpp (build.arducopter):    // @Param: SERIAL2_BAUD
+ArduCopter.cpp (build.arducopter):    GSCALAR(serial2_baud,   "SERIAL2_BAUD",     SERIAL2_BAUD/1000),
+ArduCopter.cpp (build.arducopter):        hal.uartD->begin(map_baudrate(g.serial2_baud, SERIAL2_BAUD), 128, 128);
+Config.h (arducopter):#ifndef SERIAL2_BAUD
+Config.h (arducopter): # define SERIAL2_BAUD                    57600
+Parameters.h (arducopter):    AP_Int8         serial2_baud;
+Parameters.pde (arducopter):    // @Param: SERIAL2_BAUD
+Parameters.pde (arducopter):    GSCALAR(serial2_baud,   "SERIAL2_BAUD",     SERIAL2_BAUD/1000),
+System.pde (arducopter):        hal.uartD->begin(map_baudrate(g.serial2_baud, SERIAL2_BAUD), 128, 128);
