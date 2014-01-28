@@ -280,8 +280,9 @@ public:
         k_param_acro_balance_pitch,
         k_param_acro_yaw_p, // 244
 
-		k_param_wp_breakpoint,		//wp breakpoint 1:have breakpoint 0 :none 
+		k_param_wp_breakpoint,
 		// 254,255: reserved
+        
     };
 
     AP_Int16        format_version;
@@ -332,7 +333,7 @@ public:
     AP_Int32        rtl_loiter_time;
     AP_Int16        land_speed;
     AP_Int16        pilot_velocity_z_max;        // maximum vertical velocity the pilot may request
-	AP_Int8			wp_breakpoint;				// wp breakpoint 1:have 0:none 
+	AP_Int8			wp_breakpoint;				// breakpoint flag	1: have 	0 :none
 
     // Throttle
     //

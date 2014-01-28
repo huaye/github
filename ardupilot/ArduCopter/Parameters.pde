@@ -195,13 +195,6 @@ const AP_Param::Info var_info[] PROGMEM = {
     // @Values: 3.3:3.3V, 5.0:5V
     // @User: Standard
     GSCALAR(rssi_range,          "RSSI_RANGE",         5.0),
-    
-    // @Param: WP_BREAKPOINT
-    // @DisplayName: wp_breakpoint
-    // @Description: Determines how the autopilot controls the wp_breakpoint during missions 
-    // @Values: 
-    // @User: Standard
-    GSCALAR(wp_breakpoint,  "WP_BREAKPOINT",    0),
 
     // @Param: WP_YAW_BEHAVIOR
     // @DisplayName: Yaw behaviour during missions

@@ -1,6 +1,0 @@
----- failsafe_enabled Matches (5 in 1 files) ----
-Failsafe.pde (arducopter):static bool failsafe_enabled = true;
-Failsafe.pde (arducopter):    failsafe_enabled = true;
-Failsafe.pde (arducopter):    failsafe_enabled = false;
-Failsafe.pde (arducopter):    if (failsafe_enabled && tnow - failsafe_last_timestamp > 2000000) {
-Failsafe.pde (arducopter):    if (failsafe_enabled && in_failsafe && tnow - failsafe_last_timestamp > 1000000) {
